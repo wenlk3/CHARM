@@ -1,6 +1,6 @@
 # CHARM: Collaborative Harmonization across Arbitrary Modalities for Modality-agnostic Semantic Segmentation
 
-[![AAAI 2025](https://img.shields.io/badge/AAAI-2025-blue.svg)](https://aaai.org/conference/aaai/aaai-25/)
+[![AAAI 2025](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://aaai.org/conference/aaai/aaai-26/)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.03060-b31b1b.svg)](https://arxiv.org/abs/2508.03060)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/wenlk3/CHARM?style=social)](https://github.com/wenlk3/CHARM)
