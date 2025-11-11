@@ -5,7 +5,11 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **CHARM: Collaborative Harmonization across Arbitrary Modalities for Modality-agnostic Semantic Segmentation**  
-> [Your Name], [Co-author Names]  
+> [Lekang Wen](mailto:wenlk3@whu.edu.cn)<sup>1</sup>, [Jing Xiao](mailto:jing@whu.edu.cn)<sup>2*</sup>, [Liang Liao](mailto:liaoliang1@xidian.edu.cn)<sup>3</sup>, [Jiajun Chen](mailto:jiajunchen@whu.edu.cn)<sup>1</sup>, [Mi Wang](mailto:wangmi@whu.edu.cn)<sup>1</sup>  
+> <sup>1</sup>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University  
+> <sup>2</sup>School of Artificial Intelligence, Wuhan University  
+> <sup>3</sup>Hangzhou Institute of Technology, Xidian University  
+> <sup>*</sup>Corresponding author  
 > *AAAI Conference on Artificial Intelligence (AAAI), 2025*
 
 ## 🔥 News
