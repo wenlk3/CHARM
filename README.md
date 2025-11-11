@@ -16,5 +16,5 @@
 ## 🔥 News
 
 - **[2025-11]** 🎉 CHARM is accepted to AAAI 2025 as a poster presentation!
-- **[2025-08]** 📄 Paper is available on [arXiv](https://arxiv.org/abs/2508.xxxxx)
+- **[2025-08]** 📄 Paper is available on [arXiv](https://arxiv.org/abs/2508.03060)
 - **[Coming Soon]** 💻 Code and pretrained models will be released
