@@ -6,10 +6,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/wenlk3/CHARM?style=social)](https://github.com/wenlk3/CHARM)
 
 > **CHARM: Collaborative Harmonization across Arbitrary Modalities for Modality-agnostic Semantic Segmentation**  
-> [Lekang Wen](mailto:wenlk3@whu.edu.cn)<sup>1</sup>, [Jing Xiao](mailto:jing@whu.edu.cn)<sup>2*</sup>, [Liang Liao](mailto:liaoliang1@xidian.edu.cn)<sup>3</sup>, [Jiajun Chen](mailto:jiajunchen@whu.edu.cn)<sup>1</sup>, [Mi Wang](mailto:wangmi@whu.edu.cn)<sup>1</sup>  
-> <sup>1</sup>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University  
-> <sup>2</sup>School of Artificial Intelligence, Wuhan University  
-> <sup>3</sup>Hangzhou Institute of Technology, Xidian University  
+> [Lekang Wen](mailto:wenlk3@whu.edu.cn)<sup>1</sup>, [Jing Xiao](mailto:jing@whu.edu.cn)<sup>1*</sup>, [Liang Liao](mailto:liaoliang1@xidian.edu.cn)<sup>2</sup>, [Jiajun Chen](mailto:jiajunchen@whu.edu.cn)<sup>1</sup>, [Mi Wang](mailto:wangmi@whu.edu.cn)<sup>1</sup>  
+> <sup>1</sup>Wuhan University  
+> <sup>2</sup>Xidian University  
 > <sup>*</sup>Corresponding author  
 > *AAAI Conference on Artificial Intelligence (AAAI), 2026*
 
